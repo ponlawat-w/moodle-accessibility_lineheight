@@ -1,4 +1,4 @@
-# Font Size Accessibility Widget #
+# Line Height Accessibility Widget #
 
 Requires [local_accessiblity](https://github.com/ponlawat-w/moodle-local_accessibility) to be installed and enabled.
 
