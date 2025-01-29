@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'accessibility_lineheight';
-$plugin->release = '1.0.0';
-$plugin->version = 2025011101;
+$plugin->release = '1.0.1';
+$plugin->version = 2025012900;
 $plugin->requires = 2022041900;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
