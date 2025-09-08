@@ -30,7 +30,6 @@ use local_accessibility\widgets\rangewidget;
  * Line height accessibility widget definition
  */
 class lineheight extends rangewidget {
-
     /**
      * Constructor
      */
